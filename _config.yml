@@ -2,7 +2,7 @@
 title: Nedas Gasiūnas
 email: gasiunas.nedas@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "My portfolio"
 keywords: "your keywords, separated by commas"
 skills: "PHP Web Developer"
 meta_author: Nedas Gasiūnas
@@ -42,7 +42,7 @@ social:
   - title: github
     url: http://github.com/Qpsa
   - title: linkedin
-    url: https://www.facebook.com/sb1nalla
+    url: https://lt.linkedin.com/in/nedas-gasi%C5%ABnas-13737524b
   - title: facebook
     url: https://www.facebook.com/sb1nalla
 
