@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2022-12-13
-img: symfony.png
+img: symfony1.png
 alt: symfony-alt
 project-date: December 2022
 client: 
