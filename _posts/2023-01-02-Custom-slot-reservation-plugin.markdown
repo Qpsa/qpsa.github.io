@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2022-12-16
-img: wp.png
+img: wp.webp
 alt: wp-alt
 project-date: December 2022
 client: 
